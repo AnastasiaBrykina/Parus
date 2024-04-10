@@ -1,7 +1,7 @@
 ## Install
 
 ```
-git@github.com:AnastasiaBrykina/Parus.git
+git clone git@github.com:AnastasiaBrykina/Parus.git
 ```
 
 ```
